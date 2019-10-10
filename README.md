@@ -2,7 +2,7 @@
 ### Установка PC
 1. Использовать браузер **Chrome** или **Yandex**
 2. Скачать расширение [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
+3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/Pixelbattle%20Placer.user.js) ссылку
 4. Установить [AdBlock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom/related?hl=ru)
 5. Нажать на адблок
 ![ad](https://i.imgur.com/nOV2MS6.png)
