@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Pixelbattle Placer
+// @name         bot.js
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Unity is the way to victory
