@@ -11,7 +11,7 @@
 7. Найти Настроить фильтры вручную
 8. Нажать **настройка**
 ![set](https://i.imgur.com/IvANl4u.png)
-9. Вставить туда `https://pixel.w84.vkforms.ru/static/js/main*` !!!!
+9. Вставить туда `https://pixel2019.vkforms.ru/static/js/main*` !!!!
 10. Сохранить
 11. Зайти в Pixel Battle
 12. Наслаждаться
