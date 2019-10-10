@@ -19,7 +19,7 @@
 ### Установка Android
 1. Скачать браузер [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 2. Установить расширение [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
-3. Нажать на [эту](https://raw.githubusercontent.com/questionableprofile/vkpixelbattle/master/bot.user.js) ссылку
+3. Нажать на [эту](https://github.com/JesferMonkaS/newpixelbot/raw/master/bot.user.js) ссылку
 4. Установить [AdBlock](https://addons.mozilla.org/ru/firefox/addon/adblock-for-firefox/)
 5. Вставить фильтр из инструкции для ПК (три точки - AdBlock - шестерёнка - три полоски - настроить)
 6. Зайти в Pixel Battle
